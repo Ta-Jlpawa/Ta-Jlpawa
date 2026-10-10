@@ -25,7 +25,7 @@
 ---
 
 <p align="center">
-## 📫 Connect With Me · 联系我
+  <strong>📫 Connect With Me · 联系我</strong>
 </p>
 
 <table align="center">
@@ -44,7 +44,7 @@
 </table>
 
 <details>
-  <summary>🌿 More About Me · 更多关于我（点击展开）</summary>
+  <summary>🌿 More About Me · 我的更多信息（点击展开）</summary>
   <br>
 
 ![leetcode](https://stats.justsong.cn/api/leetcode?username=sakuraba_ema&cn=true)
